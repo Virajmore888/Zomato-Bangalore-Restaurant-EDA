@@ -132,7 +132,7 @@ This pipeline was engineered under **extreme resource constraints** - developed 
 ## 🚀 Run This Project Locally
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.13+
 - pip
 - Kaggle account (for dataset download)
 
