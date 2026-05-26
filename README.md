@@ -4,7 +4,7 @@
 
 ### *51,148 restaurants. 15 variables. 5 findings that can make or break a food business.*
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/notebook)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20More-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
@@ -132,7 +132,7 @@ This pipeline was engineered under **extreme resource constraints** - developed 
 ## 🚀 Run This Project Locally
 
 ### Prerequisites
-- Python 3.13+
+- Python 3.13
 - pip
 - Kaggle account (for dataset download)
 
