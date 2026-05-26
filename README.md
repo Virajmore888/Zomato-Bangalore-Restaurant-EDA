@@ -6,11 +6,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/vitajmore88/zomato-bangalore-analysis-eda)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/notebook)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20More-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-**[🚀 Live Kaggle Notebook](https://www.kaggle.com/code/vitajmore88/zomato-bangalore-analysis-eda) · [📊 Presentation](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/9991210ea27399f9f9fd8f3c05ed557638d5ed64/Zomato_Analysis_Presentation.pdf) · [📝 Full Report](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/3cd1faa379ca89ea6cb2d998450525eb37b138bd/Zomato_Analysis_Report.pdf)**
+**[🚀 Live Kaggle Notebook](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/notebook) · [📊 Presentation](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/9991210ea27399f9f9fd8f3c05ed557638d5ed64/Zomato_Analysis_Presentation.pdf) · [📝 Full Report](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/3cd1faa379ca89ea6cb2d998450525eb37b138bd/Zomato_Analysis_Report.pdf)**
 
 *Tuesday, May 26, 2026*
 
@@ -165,7 +165,7 @@ python Zomato_Analysis.py
 ```bash
 jupyter notebook zomato-bangalore-analysis-eda.ipynb
 ```
-📓 [View Kaggle Notebook](https://www.kaggle.com/code/vitajmore88/zomato-bangalore-analysis-eda) · [View GitHub Notebook](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/3cd1faa379ca89ea6cb2d998450525eb37b138bd/zomato-bangalore-analysis-eda.ipynb)
+📓 [View Kaggle Notebook](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/notebook) · [View GitHub Notebook](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/3cd1faa379ca89ea6cb2d998450525eb37b138bd/zomato-bangalore-analysis-eda.ipynb)
 
 ### 📱 Mobile Setup (Termux)
 ```bash
@@ -226,11 +226,12 @@ zomato-bangalore-restaurant-eda/
 ## 🤝 Connect & Contribute
 
 - 🔗 **LinkedIn:** [Viraj More](https://www.linkedin.com/in/viraj-uttam-more-a24a80391)
-- 📓 **Kaggle:** [View Full Notebook](https://www.kaggle.com/code/vitajmore88/zomato-bangalore-analysis-eda)
+- 📓 **Kaggle Notebook:** [View Full Notebook](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/notebook)
+- 📊 **Kaggle Output:** [View Charts & Output](https://www.kaggle.com/code/virajmore111/zomato-bangalore-analysis-eda/output)
 - 💻 **GitHub:** [zomato-bangalore-restaurant-eda](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda)
 
 Found something to improve? Open an **Issue** or submit a **Pull Request** - contributions are welcome!
-Read the **[Contributing Guide](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/92d581e563eb8fffecad77ee27b53422756a817f/CONTRIBUTING.md)** before submitting.
+Read the **[Contributing Guide](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda/blob/1bb9dc3a459ddd034cffce091c6e78be042aa0e0/CONTRIBUTING.md)** before submitting.
 
 ---
 
